@@ -1,0 +1,20 @@
+{
+  "name": "instagramuploader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^1.8.2",
+    "dotenv": "^8.6.0",
+    "inquirer": "^7.3.3",
+    "instagram-private-api": "^1.45.1",
+    "sharp": "^0.28.3",
+    "winston": "^3.3.3"
+  }
+}
